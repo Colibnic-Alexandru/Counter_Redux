@@ -1,0 +1,10 @@
+.block {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  max-width: 80%;
+  min-height: 40%;
+  margin: 150px;
+  padding: 50px;
+}
